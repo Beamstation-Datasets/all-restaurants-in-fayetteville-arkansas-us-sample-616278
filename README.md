@@ -1,6 +1,6 @@
 # All Restaurants in Fayetteville, Arkansas, US
 
-> Free BeamStation sample export with 41 rows and masked direct-contact fields.
+> Free BeamStation sample export with 29 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `616278` |
 | Location | Fayetteville |
 | Category | Restaurants |
-| Full dataset size | 412 records |
-| Free sample size | 41 records (9.95%) |
-| Last export | 2026-04-16T12:16:22.111528+00:00 |
+| Full dataset size | 298 records |
+| Free sample size | 29 records (9.73%) |
+| Last export | 2026-04-23T11:42:10.251966+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fayetteville-arkansas-us-sample-616278/releases/download/sample-latest/beamstation_616278_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
