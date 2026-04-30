@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b3edce3e-3ea2-410c-b59e-b319111489d2",
+  "export_job_id": "82d8e906-1bbb-4659-86a3-bc9ba6654408",
   "id_short": 616278,
-  "published_at": "2026-04-23T19:23:43Z",
+  "published_at": "2026-04-30T19:24:24Z",
   "repo_name": "all-restaurants-in-fayetteville-arkansas-us-sample-616278",
   "sample_asset_name": "beamstation_616278_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/616278/beamstation_616278_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_records": 29,
-  "sample_sha256": "f8069feb6d4f469c617b593e338c435390b53f6951e137094f81abc0d7631cf7",
-  "sample_size_bytes": 124045,
-  "total_records": 298
+  "sample_records": 41,
+  "sample_sha256": "c1e04b7887b5c988e31a43a1e2e8f78de650f34992c40f39f7d8d74882b1402c",
+  "sample_size_bytes": 162550,
+  "total_records": 419
 }
